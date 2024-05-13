@@ -1,0 +1,44 @@
+{
+  "videos": [
+    {
+      "title": "sx",
+      "coverImg": "sdc",
+      "videoUrl": "https://www.youtube.com/embed/dcc",
+      "id": 1
+    },
+    {
+      "title": "TURBO",
+      "coverImg": "https://m.media-amazon.com/images/M/MV5BMTFhNGJlN2YtNzM3NS00MWNmLWFiNDAtYjU2M2Q5YjNmYjBlXkEyXkFqcGdeQXVyMTE5NjE5Mjc2._V1_.jpg",
+      "videoUrl": "https://www.youtube.com/LOE8ESPIMpE",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "GOOD",
+      "videos": [
+        [
+          {
+            "title": "sx",
+            "coverImg": "sdc",
+            "videoUrl": "https://www.youtube.com/embed/dcc",
+            "id": 1
+          },
+          {
+            "title": "TURBO",
+            "coverImg": "https://m.media-amazon.com/images/M/MV5BMTFhNGJlN2YtNzM3NS00MWNmLWFiNDAtYjU2M2Q5YjNmYjBlXkEyXkFqcGdeQXVyMTE5NjE5Mjc2._V1_.jpg",
+            "videoUrl": "https://www.youtube.com/LOE8ESPIMpE",
+            "id": 2
+          }
+        ]
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "NEW",
+      "videos": [],
+      "id": 2
+    }
+  ],
+  "histories": []
+}
